@@ -6,7 +6,7 @@ path <- "/Users/camdenhurd/desktop/Desktop/Projects/Financial Modeling"
 setwd(path)
 
 # Set Finnhub API key
-finhub_api_key <- "ct3o1ppr01qrd05j60c0ct3o1ppr01qrd05j60cg"
+finhub_api_key <- ""
 
 # Load required libraries
 library(httr)
