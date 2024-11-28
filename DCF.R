@@ -2,7 +2,7 @@
 rm(list = ls())
 
 # Set working directory
-path <- "/Users/camdenhurd/desktop/Desktop/Projects/Financial Modeling"
+path <- ""
 setwd(path)
 
 # Set Finnhub API key
